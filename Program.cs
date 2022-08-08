@@ -14,3 +14,21 @@ Console.WriteLine("Dime la hora actual");
 string hora = Console.ReadLine();
 Console.WriteLine("Esta es la hora actual: " + hora);
 
+Console.WriteLine("Dime tu edad");
+int edad = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Tu edad es: " + edad);
+
+/*int i = 0;
+long l = 1;
+float f = 10.33234f;
+double d = 2.3d;
+char c = 'a';
+string str = "string";
+
+Console.WriteLine("int: " + i);
+Console.WriteLine("long: " + l);
+Console.WriteLine("float: " + f);
+Console.WriteLine("double: " + d);
+Console.WriteLine("char: " + c);
+Console.WriteLine("str: " + str);
+*/
